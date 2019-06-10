@@ -5,6 +5,3 @@ npm-debug.*
 *.p12
 *.key
 *.mobileprovision
-
-# Android Studio
-.idea
